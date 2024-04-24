@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/distribution/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1232590238019354644",
+      "smallImageText": "launcher",
+      "smallImageKey": "launcher"
+    }
+  }
+}

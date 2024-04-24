@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Forge (Minecraft 1.20.1)",
+    "description": "Forge Running Minecraft 1.20.1 (Forge v47.2.30)",
+    "icon": "forge.png",
+    "address": "kirkoc.net:25566",
+    "discord": {
+      "shortId": "Playing Forge",
+      "largeImageText": "forge",
+      "largeImageKey": "forge"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.30"
+  },
+  "untrackedFiles": []
+}
