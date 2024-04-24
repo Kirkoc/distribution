@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "Forge (Minecraft 1.20.1)",
     "description": "Forge Running Minecraft 1.20.1 (Forge v47.2.30)",
-    "icon": "forge.png",
+    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/forge.png",
     "address": "kirkoc.net:25566",
     "discord": {
       "shortId": "Playing Forge",
