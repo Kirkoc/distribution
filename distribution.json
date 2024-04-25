@@ -500,9 +500,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 68,
+            "size": 74,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/files/servers.dat",
-            "MD5": "3bd8a8cbd7192fc7e44d0403c1e7c7e1",
+            "MD5": "4b739a2e0929e3ea708717270d7a59fc",
             "path": "servers.dat"
           }
         }
