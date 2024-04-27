@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.0.8@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11540065,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.8.jar",
+            "MD5": "6262cb5cc548348edb1578ffc3d952da"
+          }
+        },
+        {
           "id": "com.vicmatskiv:pointblank:1.2.4@jar",
           "name": "Point Blank",
           "type": "ForgeMod",
@@ -470,29 +480,6 @@
             "size": 10149164,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
             "MD5": "1bd4a107dbebf4973a5227d8d4cb0e49"
-          }
-        },
-        {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.1@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 174516,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/optionalon/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
-            "MD5": "3118e7ce35093d154c6e9742933b8d6f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.12@jar",
-          "name": "Simple Voice Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7704574,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.12.jar",
-            "MD5": "fcec7097fae17fa0bb9df427894e571b"
           }
         },
         {
@@ -504,6 +491,172 @@
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/files/servers.dat",
             "MD5": "4b739a2e0929e3ea708717270d7a59fc",
             "path": "servers.dat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vanilla-1.20.4",
+      "name": "Vanilla (Minecraft 1.20.4)",
+      "description": "Vanilla Running Minecraft 1.20.4 (Fabric v0.15.10)",
+      "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/vanilla.png",
+      "version": "1.0.0",
+      "address": "kirkoc.net:25565",
+      "minecraftVersion": "1.20.4",
+      "discord": {
+        "shortId": "Playing on kirkoc.net",
+        "largeImageText": "vanilla",
+        "largeImageKey": "vanilla"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.15.10",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1327662,
+            "MD5": "582b8c44a8afc761c63df88b64e6bb0f",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.4-fabric-0.15.10",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2849,
+                "MD5": "bcc32127f8a09b257e188825e079ffa2",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.4-fabric-0.15.10/1.20.4-fabric-0.15.10.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.6",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.6",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.6",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.6",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.6",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1458875,
+                "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 608319,
+                "MD5": "3a1cade1634c518db6147c9771686ea9",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.97.0+1.20.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2187067,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/required/fabric-api-0.97.0+1.20.4.jar",
+            "MD5": "0f6ca3c5ba9bf050c2ae09203cb7438c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.0+mc1.20.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2671419,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/optionalon/iris-1.7.0+mc1.20.4.jar",
+            "MD5": "4cd07c5091cc9646ea26f7242a316bbe"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:nvidium:0.2.6-beta@jar",
+          "name": "Nvidium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 164283,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/optionalon/nvidium-0.2.6-beta.jar",
+            "MD5": "6b5c5cac72b63ff8b2505a1691955f16"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.0.8@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11542426,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/required/plasmovoice-fabric-1.20.3-2.0.8.jar",
+            "MD5": "8ffaa4c744401710a5e2de155d1e9992"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 949085,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac"
           }
         }
       ]
