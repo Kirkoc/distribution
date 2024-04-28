@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "de.keksuccino:fancymenu:3.1.5@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2688669,
+            "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar",
+            "MD5": "b75627e42fab2dcafdd42b9b1fe169f1"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.4.4@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
@@ -460,6 +470,26 @@
             "size": 989964,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.4.jar",
             "MD5": "6a3a072cb0f6da8e8e52290b13c4ddce"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
         {
@@ -480,17 +510,6 @@
             "size": 10149164,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
             "MD5": "1bd4a107dbebf4973a5227d8d4cb0e49"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 74,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/Forge-1.20.1/files/servers.dat",
-            "MD5": "4b739a2e0929e3ea708717270d7a59fc",
-            "path": "servers.dat"
           }
         }
       ]
@@ -657,6 +676,17 @@
             "size": 949085,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
             "MD5": "d7753a50ca37f50abb10465a9a425dac"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.4/files/servers.dat",
+            "MD5": "8d750f7eed2df963b962e589c20c46ad",
+            "path": "servers.dat"
           }
         }
       ]
