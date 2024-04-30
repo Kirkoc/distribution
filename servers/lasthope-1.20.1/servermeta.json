@@ -4,12 +4,12 @@
     "version": "1.0.0",
     "name": "Last Hope",
     "description": "Forge Running Minecraft 1.20.1 (Forge v47.2.30)",
-    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/forge.png",
+    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/lasthope.png",
     "address": "anz.kirkoc.net:25565",
     "discord": {
-      "shortId": "Playing Forge",
-      "largeImageText": "forge",
-      "largeImageKey": "forge"
+      "shortId": "Playing Last Hope",
+      "largeImageText": "lasthope",
+      "largeImageKey": "lasthope"
     },
     "mainServer": true,
     "autoconnect": true

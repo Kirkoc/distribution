@@ -8,17 +8,17 @@
   },
   "servers": [
     {
-      "id": "forge-1.20.1",
+      "id": "lasthope-1.20.1",
       "name": "Last Hope",
       "description": "Forge Running Minecraft 1.20.1 (Forge v47.2.30)",
-      "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/forge.png",
+      "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/lasthope.png",
       "version": "1.0.0",
       "address": "anz.kirkoc.net:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "Playing Forge",
-        "largeImageText": "forge",
-        "largeImageKey": "forge"
+        "shortId": "Playing Last Hope",
+        "largeImageText": "lasthope",
+        "largeImageKey": "lasthope"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 243181,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.12.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.12.jar",
             "MD5": "7378c034a8d0b2b3bf50701d6f25c63c"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 626076,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/do_a_barrel_roll-forge-3.5.5.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
             "MD5": "25e8c2ca02ae6c33b4b2f1131b5c0793"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2670254,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/fancymenu_forge_3.1.7_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/fancymenu_forge_3.1.7_MC_1.20.1.jar",
             "MD5": "4004da7aacb9f69fe2421d2db26aa774"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 989964,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.4.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.4.jar",
             "MD5": "6a3a072cb0f6da8e8e52290b13c4ddce"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11442582,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.9.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.9.jar",
             "MD5": "b11441eb283cbb63d49811c466a99ba3"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10149164,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/forge-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
             "MD5": "1bd4a107dbebf4973a5227d8d4cb0e49"
           }
         }
