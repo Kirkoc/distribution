@@ -463,6 +463,16 @@
           }
         },
         {
+          "id": "com.simibubi:create:0.5.1.f@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14964127,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+          }
+        },
+        {
           "id": "nl.enjarai.doabarrelroll:do_a_barrel_roll:3.5.5+1.20.1@jar",
           "name": "Do a Barrel Roll",
           "type": "ForgeMod",
@@ -540,6 +550,16 @@
             "size": 424237,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
             "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.3+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9072462,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Steam_Rails-1.6.3+forge-mc1.20.1.jar",
+            "MD5": "add7f314442910a763360d4bd24661db"
           }
         }
       ]
