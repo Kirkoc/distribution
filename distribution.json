@@ -473,16 +473,6 @@
           }
         },
         {
-          "id": "nl.enjarai.doabarrelroll:do_a_barrel_roll:3.5.5+1.20.1@jar",
-          "name": "Do a Barrel Roll",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 626076,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
-            "MD5": "25e8c2ca02ae6c33b4b2f1131b5c0793"
-          }
-        },
-        {
           "id": "de.keksuccino:fancymenu:3.1.7@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
