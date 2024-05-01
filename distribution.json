@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
           "id": "earth.terrarium:chipped:3.0.6@jar",
           "name": "Chipped",
           "type": "ForgeMod",
@@ -520,6 +530,16 @@
             "size": 10149164,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
             "MD5": "1bd4a107dbebf4973a5227d8d4cb0e49"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.24@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 424237,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
+            "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
           }
         }
       ]
