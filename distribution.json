@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "su.plo.voice.soundphysics:pv_addon_soundphysics:1.0.1@jar",
+          "name": "Pv-addon-soundphysics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10686,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/pv-addon-soundphysics-1.0.1.jar",
+            "MD5": "f4057fa2e49c7e71b983b18584b7b39a"
+          }
+        },
+        {
           "id": "com.teamresourceful:resourcefullib:2.1.24@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
@@ -540,6 +550,16 @@
             "size": 424237,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
             "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174516,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
+            "MD5": "3118e7ce35093d154c6e9742933b8d6f"
           }
         },
         {
