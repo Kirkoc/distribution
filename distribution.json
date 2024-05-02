@@ -473,6 +473,19 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.17+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1265692,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/embeddium-0.3.17+mc1.20.1-all.jar",
+            "MD5": "fc2ecf8f1eaa5b47ba7ea5baa539feac"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "de.keksuccino:fancymenu:3.1.7@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -510,6 +523,19 @@
             "size": 37178,
             "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
