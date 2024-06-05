@@ -21,86 +21,86 @@
         "largeImageKey": "lasthope"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.30",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.1",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7398,
-            "MD5": "5b8f183d0457a083d1a34cea4e39dfd4",
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.30/lowcodelanguage-1.20.1-47.2.30.jar"
+            "size": 7399,
+            "MD5": "b1f3d08f5751ffaff838a2b3bc0fe400",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.2.30",
+              "id": "1.20.1-47.3.1",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16554,
-                "MD5": "96d9933d968e0737f7af14e466db66e9",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.1-forge-47.2.30/1.20.1-forge-47.2.30.json"
+                "size": 16542,
+                "MD5": "115decf6bffd39e556846da75b3887eb",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.1-forge-47.3.1/1.20.1-forge-47.3.1.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.2.30",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.1",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118685,
-                "MD5": "07d19cc58897dd9d7c5b6c7e877cada5",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.30/fmlcore-1.20.1-47.2.30.jar"
+                "size": 118686,
+                "MD5": "6dfa45ec5d39600aec55704834ac015e",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.2.30",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.1",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16515,
-                "MD5": "1f2ebbdf89792400468ebce6a8152c24",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.30/javafmllanguage-1.20.1-47.2.30.jar"
+                "size": 16516,
+                "MD5": "8b422aea641fe7d2f5d235d9ece0684b",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.2.30",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.1",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 4999,
-                "MD5": "841a9f90052d07a5800766cd7f1a43c4",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.30/mclanguage-1.20.1-47.2.30.jar"
+                "MD5": "0b103c076e63df7cc6488a7cfd013768",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.2.30:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.1:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2686140,
-                "MD5": "66c42d3cda7ca024b96891503012cc6b",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.2.30/forge-1.20.1-47.2.30-universal.jar"
+                "size": 2753099,
+                "MD5": "8cef04d98ac84097252b3dff28ab2981",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.2.30:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.1:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4792908,
-                "MD5": "6ed59231e10385b829b3a28cabe93844",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.2.30/forge-1.20.1-47.2.30-client.jar"
+                "size": 4792887,
+                "MD5": "8d115509102102e5f1598d3f8e974044",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-client.jar"
               },
               "subModules": []
             },
@@ -411,23 +411,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.2.30",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.1",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264263,
-                "MD5": "88f00a111ae74d4ae61b661d8ec8a726",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.30/fmlloader-1.20.1-47.2.30.jar"
+                "size": 264537,
+                "MD5": "a44cea3816b0a574a659e394dfb5dfc4",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.1/fmlloader-1.20.1-47.3.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.2.30",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.1",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170973,
-                "MD5": "35fa82a900fe4ada31e2a7a7121ddabe",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.30/fmlearlydisplay-1.20.1-47.2.30.jar"
+                "size": 170831,
+                "MD5": "9a03d488f7072d461dbbd34ab170b284",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.1/fmlearlydisplay-1.20.1-47.3.1.jar"
               }
             }
           ]
@@ -453,16 +453,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.12@jar",
-          "name": "Corpse",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 243181,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.12.jar",
-            "MD5": "7378c034a8d0b2b3bf50701d6f25c63c"
-          }
-        },
-        {
           "id": "com.simibubi:create:0.5.1.f@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -473,36 +463,26 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.17+mc1.20.1@jar",
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1265692,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/embeddium-0.3.17+mc1.20.1-all.jar",
-            "MD5": "fc2ecf8f1eaa5b47ba7ea5baa539feac"
+            "size": 1280293,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/embeddium-0.3.19+mc1.20.1-all.jar",
+            "MD5": "1b272575bea5f1e7c61a4d189b712343"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.1.7@jar",
+          "id": "de.keksuccino:fancymenu:3.2.3@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2670254,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/fancymenu_forge_3.1.7_MC_1.20.1.jar",
-            "MD5": "4004da7aacb9f69fe2421d2db26aa774"
-          }
-        },
-        {
-          "id": "software.bernie.example:geckolib:4.4.4@jar",
-          "name": "GeckoLib 4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 989964,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.4.jar",
-            "MD5": "6a3a072cb0f6da8e8e52290b13c4ddce"
+            "size": 2696876,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
+            "MD5": "ac238a3496ff4d386a148fb06ca6a116"
           }
         },
         {
@@ -549,53 +529,78 @@
           }
         },
         {
-          "id": "com.vicmatskiv:pointblank:1.2.4@jar",
-          "name": "Point Blank",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10149164,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/pointblank-1.20.1-1.2.4.jar",
-            "MD5": "1bd4a107dbebf4973a5227d8d4cb0e49"
-          }
-        },
-        {
-          "id": "su.plo.voice.soundphysics:pv_addon_soundphysics:1.0.1@jar",
-          "name": "Pv-addon-soundphysics",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10686,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/pv-addon-soundphysics-1.0.1.jar",
-            "MD5": "f4057fa2e49c7e71b983b18584b7b39a"
-          }
-        },
-        {
-          "id": "com.teamresourceful:resourcefullib:2.1.24@jar",
+          "id": "com.teamresourceful:resourcefullib:2.1.25@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 424237,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
-            "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
+            "size": 424027,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.25.jar",
+            "MD5": "f18a89355a9d0624842ccca224772975"
           }
         },
         {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.1@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 174516,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
-            "MD5": "3118e7ce35093d154c6e9742933b8d6f"
-          }
-        },
-        {
-          "id": "com.railwayteam:railways:1.6.3+forge-mc1.20.1@jar",
+          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9072462,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Steam_Rails-1.6.3+forge-mc1.20.1.jar",
-            "MD5": "add7f314442910a763360d4bd24661db"
+            "size": 9096035,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "MD5": "a166aa861a8c584c89271731d882a45e"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 69,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/servers.dat",
+            "MD5": "5a0d6f4d4564092048df7ea283c1fa4d",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "BSL_v8.2.09p2.zip",
+          "name": "BSL_v8.2.09p2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 954763,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/BSL_v8.2.09p2.zip",
+            "MD5": "35b7bbb0b37868ef658aa5a847ed948f",
+            "path": "shaderpacks/BSL_v8.2.09p2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.1.1.zip",
+          "name": "ComplementaryReimagined_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409956,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "MD5": "36b4136593cac57d2f9aa651603b6e0f",
+            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip",
+          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409957,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "rethinking-voxels_r0.1-beta3-fix1.zip",
+          "name": "rethinking-voxels_r0.1-beta3-fix1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 493088,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip",
+            "MD5": "08fe9342ea29f12562a3c654bf1ec918",
+            "path": "shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip"
           }
         }
       ]
@@ -632,7 +637,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2849,
-                "MD5": "33072353cc37a64d8d1048b61771203a",
+                "MD5": "1cd8460ced4ba80e7c2bfe9fd415b935",
                 "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.6-fabric-0.15.10/1.20.6-fabric-0.15.10.json"
               }
             },

@@ -12,10 +12,10 @@
       "largeImageKey": "lasthope"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "forge": {
-    "version": "47.2.30"
+    "version": "47.3.1"
   },
   "untrackedFiles": []
 }
