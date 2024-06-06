@@ -719,11 +719,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39170133,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/Axiom-3.0.0-for-MC1.20.6.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionaloff/Axiom-3.0.0-for-MC1.20.6.jar",
             "MD5": "67a13322409e98f883a06f1c833f8878"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
