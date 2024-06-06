@@ -714,39 +714,39 @@
           ]
         },
         {
-          "id": "com.moulberry:axiom:2.8.1@jar",
+          "id": "com.moulberry:axiom:3.0.0@jar",
           "name": "Axiom",
           "type": "FabricMod",
           "artifact": {
-            "size": 39807862,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/Axiom-2.8.1-for-MC1.20.6.jar",
-            "MD5": "4a426f140892a3b540dbe2631787a6b1"
+            "size": 39170133,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/Axiom-3.0.0-for-MC1.20.6.jar",
+            "MD5": "67a13322409e98f883a06f1c833f8878"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "dzwdz.chat_heads:chat_heads:0.11.0@jar",
-          "name": "Chat Heads",
+          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.5@jar",
+          "name": "Continuity",
           "type": "FabricMod",
           "artifact": {
-            "size": 52681,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/chat_heads-0.11.0-fabric-1.20.5.jar",
-            "MD5": "d097950a91c21ada6a47f4e414edb7bd"
+            "size": 1009234,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/continuity-3.0.0-beta.5+1.20.5.jar",
+            "MD5": "36ad54c49157899a0cbc1585f3657429"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.97.8+1.20.6@jar",
+          "id": "generated.fabricmod:fabric-api:0.99.4+1.20.6@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2202137,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/fabric-api-0.97.8+1.20.6.jar",
-            "MD5": "a7d78c0329fd085d57e3a4d033387a1d"
+            "size": 2230715,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/fabric-api-0.99.4+1.20.6.jar",
+            "MD5": "42478748f033622cf9afcae8e8228744"
           }
         },
         {
@@ -763,13 +763,13 @@
           }
         },
         {
-          "id": "com.terraformersmc:modmenu:10.0.0-beta.1@jar",
-          "name": "Mod Menu",
+          "id": "generated.fabricmod:nvidium:0.2.7-beta@jar",
+          "name": "Nvidium",
           "type": "FabricMod",
           "artifact": {
-            "size": 746627,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/modmenu-10.0.0-beta.1.jar",
-            "MD5": "db825ac6ef14a4d3e0237785fd73615f"
+            "size": 156956,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/nvidium-0.2.7-beta.jar",
+            "MD5": "ff322a0016eb7801b6af10bec2f783ad"
           },
           "required": {
             "value": false
@@ -791,21 +791,21 @@
           "type": "FabricMod",
           "artifact": {
             "size": 964688,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/sodium-fabric-0.5.8+mc1.20.6.jar",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/sodium-fabric-0.5.8+mc1.20.6.jar",
             "MD5": "71f1650662a552f4e26d2fa79408d6b1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
-          "id": "org.vivecraft:vivecraft:1.20.5-1.1.9-a2@jar",
+          "id": "org.vivecraft:vivecraft:1.20.6-1.1.9-b1@jar",
           "name": "Vivecraft",
           "type": "FabricMod",
           "artifact": {
-            "size": 5014674,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/vivecraft-1.20.5-1.1.9-a2-fabric.jar",
-            "MD5": "c90942879fbe0ee27ca65431ed475523"
+            "size": 5011177,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/vivecraft-1.20.6-1.1.9-b1-fabric.jar",
+            "MD5": "e06c99c84fc3b20ea813581366ea1997"
+          },
+          "required": {
+            "value": false
           }
         },
         {
