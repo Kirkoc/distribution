@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "com.copycatsplus:copycats:1.20.1-1.2.6@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1361980,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Copycats-forge.1.20.1-1.2.6.jar",
+            "MD5": "29354644c61d04989f57ec5d58fd0679"
+          }
+        },
+        {
           "id": "com.simibubi:create:0.5.1.f@jar",
           "name": "Create",
           "type": "ForgeMod",
