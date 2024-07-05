@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "Last Hope",
     "description": "Forge Running Minecraft 1.20.1 (Forge v47.3.4)",
-    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/lasthope.png",
+    "icon": "https://cdn.kirkoc.net/distribution/lasthope.png",
     "address": "anz.kirkoc.net:25565",
     "discord": {
       "shortId": "Playing Last Hope",

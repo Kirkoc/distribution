@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "Vanilla (Minecraft 1.21)",
     "description": "vanilla Running Minecraft 1.21 (Fabric v0.15.11)",
-    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/vanilla.png",
+    "icon": "https://cdn.kirkoc.net/distribution/vanilla.png",
     "address": "kirkoc.net:25565",
     "discord": {
       "shortId": "Playing Vanilla",

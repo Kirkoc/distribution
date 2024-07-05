@@ -11,7 +11,7 @@
       "id": "lasthope-1.20.1",
       "name": "Last Hope",
       "description": "Forge Running Minecraft 1.20.1 (Forge v47.3.4)",
-      "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/lasthope.png",
+      "icon": "https://cdn.kirkoc.net/distribution/lasthope.png",
       "version": "1.0.0",
       "address": "anz.kirkoc.net:25565",
       "minecraftVersion": "1.20.1",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7399,
             "MD5": "d9da3109a35b3fea04d698c98756df45",
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.4/lowcodelanguage-1.20.1-47.3.4.jar"
+            "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.4/lowcodelanguage-1.20.1-47.3.4.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16542,
                 "MD5": "aaae3a8c72beac845e81cf816cb21a6b",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.1-forge-47.3.4/1.20.1-forge-47.3.4.json"
+                "url": "https://cdn.kirkoc.net/repo/versions/1.20.1-forge-47.3.4/1.20.1-forge-47.3.4.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118685,
                 "MD5": "05ad161b25c3f47f92f4b319cd735ba5",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.4/fmlcore-1.20.1-47.3.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.4/fmlcore-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16516,
                 "MD5": "2253eb35cc1be09e96a47f9f4b843f82",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.4/javafmllanguage-1.20.1-47.3.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.4/javafmllanguage-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "33ad0717e20dc88e0b54819386584384",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.4/mclanguage-1.20.1-47.3.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.4/mclanguage-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2753352,
                 "MD5": "f5307abf6bfaa0a8da6fc84476b14ede",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-universal.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4792946,
                 "MD5": "35b83a2bda435e7127bc37809908063d",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-client.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 125428,
                 "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73426,
                 "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 93784,
                 "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 34776,
                 "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24124,
                 "MD5": "4b4fe7e512819804660d621bf11c7381",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 264782,
                 "MD5": "3ae1f4a9dcb984d9709b5253153168bb",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.4/fmlloader-1.20.1-47.3.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.4/fmlloader-1.20.1-47.3.4.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170831,
                 "MD5": "f34557fb52efa094d1ba0fce6f254020",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.4/fmlearlydisplay-1.20.1-47.3.4.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.4/fmlearlydisplay-1.20.1-47.3.4.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91808,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
             "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15060040,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
             "MD5": "5a9884538e222ff0b47ec860cd050885"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1361980,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Copycats-forge.1.20.1-1.2.6.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/Copycats-forge.1.20.1-1.2.6.jar",
             "MD5": "29354644c61d04989f57ec5d58fd0679"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14964127,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
             "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1280293,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/embeddium-0.3.19+mc1.20.1-all.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/optionalon/embeddium-0.3.19+mc1.20.1-all.jar",
             "MD5": "1b272575bea5f1e7c61a4d189b712343"
           },
           "required": {
@@ -491,7 +491,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2696876,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/fancymenu_forge_3.2.3_MC_1.20.1.jar",
             "MD5": "ac238a3496ff4d386a148fb06ca6a116"
           }
         },
@@ -501,7 +501,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -511,7 +511,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -521,7 +521,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2831148,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           },
           "required": {
@@ -534,7 +534,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11442582,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.9.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.9.jar",
             "MD5": "b11441eb283cbb63d49811c466a99ba3"
           }
         },
@@ -544,7 +544,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424027,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.25.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.25.jar",
             "MD5": "f18a89355a9d0624842ccca224772975"
           }
         },
@@ -554,7 +554,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9096035,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
             "MD5": "a166aa861a8c584c89271731d882a45e"
           }
         },
@@ -564,7 +564,7 @@
           "type": "File",
           "artifact": {
             "size": 87,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/servers.dat",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/files/servers.dat",
             "MD5": "8f1c7efca0a9ee4a4ad77b2cd9a6b116",
             "path": "servers.dat"
           }
@@ -575,7 +575,7 @@
           "type": "File",
           "artifact": {
             "size": 954763,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/BSL_v8.2.09p2.zip",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/files/shaderpacks/BSL_v8.2.09p2.zip",
             "MD5": "35b7bbb0b37868ef658aa5a847ed948f",
             "path": "shaderpacks/BSL_v8.2.09p2.zip"
           }
@@ -586,7 +586,7 @@
           "type": "File",
           "artifact": {
             "size": 409956,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
             "MD5": "36b4136593cac57d2f9aa651603b6e0f",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
           }
@@ -597,7 +597,7 @@
           "type": "File",
           "artifact": {
             "size": 409957,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
             "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
           }
@@ -608,7 +608,7 @@
           "type": "File",
           "artifact": {
             "size": 493088,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/lasthope-1.20.1/files/shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip",
+            "url": "https://cdn.kirkoc.net/servers/lasthope-1.20.1/files/shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip",
             "MD5": "08fe9342ea29f12562a3c654bf1ec918",
             "path": "shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip"
           }
@@ -619,7 +619,7 @@
       "id": "vanilla-1.21",
       "name": "Vanilla (Minecraft 1.21)",
       "description": "vanilla Running Minecraft 1.21 (Fabric v0.15.11)",
-      "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/vanilla.png",
+      "icon": "https://cdn.kirkoc.net/distribution/vanilla.png",
       "version": "1.0.0",
       "address": "kirkoc.net:25565",
       "minecraftVersion": "1.21",
@@ -638,7 +638,7 @@
           "artifact": {
             "size": 1327691,
             "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
+            "url": "https://cdn.kirkoc.net/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
           },
           "subModules": [
             {
@@ -648,7 +648,7 @@
               "artifact": {
                 "size": 2843,
                 "MD5": "44c419f67150a54ebb44c5c4a0d16e29",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.21-fabric-0.15.11/1.21-fabric-0.15.11.json"
+                "url": "https://cdn.kirkoc.net/repo/versions/1.21-fabric-0.15.11/1.21-fabric-0.15.11.json"
               }
             },
             {
@@ -658,7 +658,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -668,7 +668,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -678,7 +678,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -688,7 +688,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -698,7 +698,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -708,7 +708,7 @@
               "artifact": {
                 "size": 1458875,
                 "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
               }
             },
             {
@@ -718,7 +718,7 @@
               "artifact": {
                 "size": 657632,
                 "MD5": "4698a01c8408c4033c8f24e199960b23",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
+                "url": "https://cdn.kirkoc.net/repo/lib/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
               }
             }
           ]
@@ -729,7 +729,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39160706,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/Axiom-3.1.0-for-MC1.21.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionaloff/Axiom-3.1.0-for-MC1.21.jar",
             "MD5": "b49419c64988d7ea9207bebb12086fca"
           },
           "required": {
@@ -743,7 +743,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2237122,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/fabric-api-0.100.4+1.21.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/required/fabric-api-0.100.4+1.21.jar",
             "MD5": "b18225b7112a9200ef10b512850dc84c"
           }
         },
@@ -753,7 +753,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104921,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/indium-1.0.34+mc1.21.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionalon/indium-1.0.34+mc1.21.jar",
             "MD5": "efa01c62bcdbf9c561aec8c93b4cc366"
           },
           "required": {
@@ -766,7 +766,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2707610,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/iris-1.7.3+mc1.21.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionalon/iris-1.7.3+mc1.21.jar",
             "MD5": "16c9b91d058d1a4be4e2c3cff5ad8102"
           },
           "required": {
@@ -779,7 +779,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1265883,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/litematica-fabric-1.21-0.18.999-sakura.14.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionaloff/litematica-fabric-1.21-0.18.999-sakura.14.jar",
             "MD5": "ca775986648c0ca8270560579bcd4f8c"
           },
           "required": {
@@ -793,7 +793,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 806110,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/malilib-fabric-1.21-0.19.999-sakura.6.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/required/malilib-fabric-1.21-0.19.999-sakura.6.jar",
             "MD5": "095c3ccf6e8536afa1f948581ffbef2f"
           }
         },
@@ -803,7 +803,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 670996,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/minihud-fabric-1.21-0.31.999-sakura.6.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionaloff/minihud-fabric-1.21-0.31.999-sakura.6.jar",
             "MD5": "01cf507a2a9b418fc8758dfa9a460af0"
           },
           "required": {
@@ -817,7 +817,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 975390,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/modmenu-11.0.1.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionalon/modmenu-11.0.1.jar",
             "MD5": "34d1411e0789ba6b051c6eabb11eb0bb"
           },
           "required": {
@@ -830,7 +830,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 157404,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/nvidium-0.2.9-beta.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionalon/nvidium-0.2.9-beta.jar",
             "MD5": "fb3580013100e35e7186d7e191746fb4"
           },
           "required": {
@@ -843,7 +843,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11390168,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/plasmovoice-fabric-1.21-2.0.10.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/required/plasmovoice-fabric-1.21-2.0.10.jar",
             "MD5": "bf7b3855f2a236d12f116c3ee72c67d9"
           }
         },
@@ -853,7 +853,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 982671,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/sodium-fabric-0.5.11+mc1.21.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/required/sodium-fabric-0.5.11+mc1.21.jar",
             "MD5": "6c1f78cb7d596f5e4e50725bab6b7989"
           }
         },
@@ -863,7 +863,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 574000,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/tweakeroo-fabric-1.21-0.20.999-sakura.12.jar",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/fabricmods/optionaloff/tweakeroo-fabric-1.21-0.20.999-sakura.12.jar",
             "MD5": "eb71ce4ad761589c2b89a975cf5f38a4"
           },
           "required": {
@@ -877,7 +877,7 @@
           "type": "File",
           "artifact": {
             "size": 288,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/servers.dat",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/servers.dat",
             "MD5": "8d750f7eed2df963b962e589c20c46ad",
             "path": "servers.dat"
           }
@@ -888,7 +888,7 @@
           "type": "File",
           "artifact": {
             "size": 954784,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/BSL_v8.2.09.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/BSL_v8.2.09.zip",
             "MD5": "4443556b4e0d63394f0df1297e484454",
             "path": "shaderpacks/BSL_v8.2.09.zip"
           }
@@ -899,7 +899,7 @@
           "type": "File",
           "artifact": {
             "size": 439882,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
             "MD5": "1a9612a05bb17db3ad1636c764455448",
             "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
           }
@@ -910,7 +910,7 @@
           "type": "File",
           "artifact": {
             "size": 439886,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/ComplementaryUnbound_r5.2.1.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/ComplementaryUnbound_r5.2.1.zip",
             "MD5": "87c171768eb3dedfffcf922f9a7abf6d",
             "path": "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
           }
@@ -921,7 +921,7 @@
           "type": "File",
           "artifact": {
             "size": 11336044,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/Noble%20v1.7.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/Noble%20v1.7.zip",
             "MD5": "59a847996cc1d918fce379789e415bc0",
             "path": "shaderpacks/Noble v1.7.zip"
           }
@@ -932,7 +932,7 @@
           "type": "File",
           "artifact": {
             "size": 1558823,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/photon_v1.0a.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/photon_v1.0a.zip",
             "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
             "path": "shaderpacks/photon_v1.0a.zip"
           }
@@ -943,7 +943,7 @@
           "type": "File",
           "artifact": {
             "size": 10529242,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/Shrimple_v0.11.zip",
+            "url": "https://cdn.kirkoc.net/servers/vanilla-1.21/files/shaderpacks/Shrimple_v0.11.zip",
             "MD5": "9627361018b6456c106179cbff95a42c",
             "path": "shaderpacks/Shrimple_v0.11.zip"
           }
