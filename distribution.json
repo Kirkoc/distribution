@@ -10,7 +10,7 @@
     {
       "id": "lasthope-1.20.1",
       "name": "Last Hope",
-      "description": "Forge Running Minecraft 1.20.1 (Forge v47.2.30)",
+      "description": "Forge Running Minecraft 1.20.1 (Forge v47.3.4)",
       "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/lasthope.png",
       "version": "1.0.0",
       "address": "anz.kirkoc.net:25565",
@@ -24,83 +24,83 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.1",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.4",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 7399,
-            "MD5": "b1f3d08f5751ffaff838a2b3bc0fe400",
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.1/lowcodelanguage-1.20.1-47.3.1.jar"
+            "MD5": "d9da3109a35b3fea04d698c98756df45",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.4/lowcodelanguage-1.20.1-47.3.4.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.3.1",
+              "id": "1.20.1-47.3.4",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 16542,
-                "MD5": "115decf6bffd39e556846da75b3887eb",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.1-forge-47.3.1/1.20.1-forge-47.3.1.json"
+                "MD5": "aaae3a8c72beac845e81cf816cb21a6b",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.1-forge-47.3.4/1.20.1-forge-47.3.4.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.1",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.4",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118686,
-                "MD5": "6dfa45ec5d39600aec55704834ac015e",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.1/fmlcore-1.20.1-47.3.1.jar"
+                "size": 118685,
+                "MD5": "05ad161b25c3f47f92f4b319cd735ba5",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.4/fmlcore-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.1",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.4",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 16516,
-                "MD5": "8b422aea641fe7d2f5d235d9ece0684b",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.1/javafmllanguage-1.20.1-47.3.1.jar"
+                "MD5": "2253eb35cc1be09e96a47f9f4b843f82",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.4/javafmllanguage-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.1",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.4",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 4999,
-                "MD5": "0b103c076e63df7cc6488a7cfd013768",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.1/mclanguage-1.20.1-47.3.1.jar"
+                "MD5": "33ad0717e20dc88e0b54819386584384",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.4/mclanguage-1.20.1-47.3.4.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.1:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.4:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2753099,
-                "MD5": "8cef04d98ac84097252b3dff28ab2981",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-universal.jar"
+                "size": 2753352,
+                "MD5": "f5307abf6bfaa0a8da6fc84476b14ede",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.1:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.4:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4792887,
-                "MD5": "8d115509102102e5f1598d3f8e974044",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.1/forge-1.20.1-47.3.1-client.jar"
+                "size": 4792946,
+                "MD5": "35b83a2bda435e7127bc37809908063d",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.4/forge-1.20.1-47.3.4-client.jar"
               },
               "subModules": []
             },
@@ -411,23 +411,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.1",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.4",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264537,
-                "MD5": "a44cea3816b0a574a659e394dfb5dfc4",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.1/fmlloader-1.20.1-47.3.1.jar"
+                "size": 264782,
+                "MD5": "3ae1f4a9dcb984d9709b5253153168bb",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.4/fmlloader-1.20.1-47.3.4.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.1",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.4",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
                 "size": 170831,
-                "MD5": "9a03d488f7072d461dbbd34ab170b284",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.1/fmlearlydisplay-1.20.1-47.3.1.jar"
+                "MD5": "f34557fb52efa094d1ba0fce6f254020",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.4/fmlearlydisplay-1.20.1-47.3.4.jar"
               }
             }
           ]
@@ -616,39 +616,39 @@
       ]
     },
     {
-      "id": "vanilla-1.20.6",
-      "name": "Vanilla",
-      "description": "vanilla Running Minecraft 1.20.6 (Fabric v0.15.10)",
+      "id": "vanilla-1.21",
+      "name": "Vanilla (Minecraft 1.21)",
+      "description": "vanilla Running Minecraft 1.21 (Fabric v0.15.11)",
       "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/vanilla.png",
       "version": "1.0.0",
       "address": "kirkoc.net:25565",
-      "minecraftVersion": "1.20.6",
+      "minecraftVersion": "1.21",
       "discord": {
-        "shortId": "Playing on kirkoc.net",
-        "largeImageText": "Playing Vanilla",
+        "shortId": "Playing Vanilla",
+        "largeImageText": "vanilla",
         "largeImageKey": "vanilla"
       },
       "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.15.10",
+          "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1327662,
-            "MD5": "582b8c44a8afc761c63df88b64e6bb0f",
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar"
+            "size": 1327691,
+            "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
           },
           "subModules": [
             {
-              "id": "1.20.6-fabric-0.15.10",
+              "id": "1.21-fabric-0.15.11",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2849,
-                "MD5": "1cd8460ced4ba80e7c2bfe9fd415b935",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.20.6-fabric-0.15.10/1.20.6-fabric-0.15.10.json"
+                "size": 2843,
+                "MD5": "44c419f67150a54ebb44c5c4a0d16e29",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/versions/1.21-fabric-0.15.11/1.21-fabric-0.15.11.json"
               }
             },
             {
@@ -712,25 +712,25 @@
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.20.6",
+              "id": "net.fabricmc:intermediary:1.21",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 645866,
-                "MD5": "f15d0e5260bfeccf2fdca0da114cac48",
-                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/intermediary/1.20.6/intermediary-1.20.6.jar"
+                "size": 657632,
+                "MD5": "4698a01c8408c4033c8f24e199960b23",
+                "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/repo/lib/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
               }
             }
           ]
         },
         {
-          "id": "com.moulberry:axiom:3.0.0@jar",
+          "id": "com.moulberry:axiom:3.1.0@jar",
           "name": "Axiom",
           "type": "FabricMod",
           "artifact": {
-            "size": 39170133,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionaloff/Axiom-3.0.0-for-MC1.20.6.jar",
-            "MD5": "67a13322409e98f883a06f1c833f8878"
+            "size": 39160706,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/Axiom-3.1.0-for-MC1.21.jar",
+            "MD5": "b49419c64988d7ea9207bebb12086fca"
           },
           "required": {
             "value": false,
@@ -738,85 +738,137 @@
           }
         },
         {
-          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.5@jar",
-          "name": "Continuity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1009234,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/continuity-3.0.0-beta.5+1.20.5.jar",
-            "MD5": "36ad54c49157899a0cbc1585f3657429"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.99.4+1.20.6@jar",
+          "id": "generated.fabricmod:fabric-api:0.100.4+1.21@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2230715,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/fabric-api-0.99.4+1.20.6.jar",
-            "MD5": "42478748f033622cf9afcae8e8228744"
+            "size": 2237122,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/fabric-api-0.100.4+1.21.jar",
+            "MD5": "b18225b7112a9200ef10b512850dc84c"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.7.0+mc1.20.6@jar",
+          "id": "link.infra:indium:1.0.34+mc1.21@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104921,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/indium-1.0.34+mc1.21.jar",
+            "MD5": "efa01c62bcdbf9c561aec8c93b4cc366"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.3+mc1.21@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2698708,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/iris-1.7.0+mc1.20.6.jar",
-            "MD5": "3c550fff0aae1331134287230355a0dc"
+            "size": 2707610,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/iris-1.7.3+mc1.21.jar",
+            "MD5": "16c9b91d058d1a4be4e2c3cff5ad8102"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "generated.fabricmod:nvidium:0.2.7-beta@jar",
+          "id": "fi.dy.masa:litematica:0.18.999-sakura.14@jar",
+          "name": "Litematica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1265883,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/litematica-fabric-1.21-0.18.999-sakura.14.jar",
+            "MD5": "ca775986648c0ca8270560579bcd4f8c"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.19.999-sakura.6@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 806110,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/malilib-fabric-1.21-0.19.999-sakura.6.jar",
+            "MD5": "095c3ccf6e8536afa1f948581ffbef2f"
+          }
+        },
+        {
+          "id": "fi.dy.masa:minihud:0.31.999-sakura.6@jar",
+          "name": "MiniHUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 670996,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/minihud-fabric-1.21-0.31.999-sakura.6.jar",
+            "MD5": "01cf507a2a9b418fc8758dfa9a460af0"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:11.0.1@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 975390,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/modmenu-11.0.1.jar",
+            "MD5": "34d1411e0789ba6b051c6eabb11eb0bb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:nvidium:0.2.9-beta@jar",
           "name": "Nvidium",
           "type": "FabricMod",
           "artifact": {
-            "size": 156956,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/nvidium-0.2.7-beta.jar",
-            "MD5": "ff322a0016eb7801b6af10bec2f783ad"
+            "size": 157404,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionalon/nvidium-0.2.9-beta.jar",
+            "MD5": "fb3580013100e35e7186d7e191746fb4"
           },
           "required": {
             "value": false
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.0.9@jar",
+          "id": "su.plo.voice:plasmovoice:2.0.10@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 11460356,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/plasmovoice-fabric-1.20.6-2.0.9.jar",
-            "MD5": "4f08645c3603c905952f7244fbc1cbb4"
+            "size": 11390168,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/plasmovoice-fabric-1.21-2.0.10.jar",
+            "MD5": "bf7b3855f2a236d12f116c3ee72c67d9"
           }
         },
         {
-          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.6@jar",
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.21@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 964688,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/required/sodium-fabric-0.5.8+mc1.20.6.jar",
-            "MD5": "71f1650662a552f4e26d2fa79408d6b1"
+            "size": 982671,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/required/sodium-fabric-0.5.11+mc1.21.jar",
+            "MD5": "6c1f78cb7d596f5e4e50725bab6b7989"
           }
         },
         {
-          "id": "org.vivecraft:vivecraft:1.20.6-1.1.9-b1@jar",
-          "name": "Vivecraft",
+          "id": "fi.dy.masa:tweakeroo:0.20.999-sakura.12@jar",
+          "name": "Tweakeroo",
           "type": "FabricMod",
           "artifact": {
-            "size": 5011177,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/fabricmods/optionalon/vivecraft-1.20.6-1.1.9-b1-fabric.jar",
-            "MD5": "e06c99c84fc3b20ea813581366ea1997"
+            "size": 574000,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/fabricmods/optionaloff/tweakeroo-fabric-1.21-0.20.999-sakura.12.jar",
+            "MD5": "eb71ce4ad761589c2b89a975cf5f38a4"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -825,31 +877,75 @@
           "type": "File",
           "artifact": {
             "size": 288,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/files/servers.dat",
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/servers.dat",
             "MD5": "8d750f7eed2df963b962e589c20c46ad",
             "path": "servers.dat"
           }
         },
         {
-          "id": "ComplementaryReimagined_r5.1.1.zip",
-          "name": "ComplementaryReimagined_r5.1.1.zip",
+          "id": "BSL_v8.2.09.zip",
+          "name": "BSL_v8.2.09.zip",
           "type": "File",
           "artifact": {
-            "size": 409956,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
-            "MD5": "36b4136593cac57d2f9aa651603b6e0f",
-            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+            "size": 954784,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/BSL_v8.2.09.zip",
+            "MD5": "4443556b4e0d63394f0df1297e484454",
+            "path": "shaderpacks/BSL_v8.2.09.zip"
           }
         },
         {
-          "id": "rethinking-voxels_r0.1-beta3-fix1.zip",
-          "name": "rethinking-voxels_r0.1-beta3-fix1.zip",
+          "id": "ComplementaryReimagined_r5.2.1.zip",
+          "name": "ComplementaryReimagined_r5.2.1.zip",
           "type": "File",
           "artifact": {
-            "size": 493088,
-            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.20.6/files/shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip",
-            "MD5": "08fe9342ea29f12562a3c654bf1ec918",
-            "path": "shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip"
+            "size": 439882,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
+            "MD5": "1a9612a05bb17db3ad1636c764455448",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.1.zip",
+          "name": "ComplementaryUnbound_r5.2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 439886,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/ComplementaryUnbound_r5.2.1.zip",
+            "MD5": "87c171768eb3dedfffcf922f9a7abf6d",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
+          }
+        },
+        {
+          "id": "Noble v1.7.zip",
+          "name": "Noble v1.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11336044,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/Noble%20v1.7.zip",
+            "MD5": "59a847996cc1d918fce379789e415bc0",
+            "path": "shaderpacks/Noble v1.7.zip"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip",
+          "name": "photon_v1.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1558823,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/photon_v1.0a.zip",
+            "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
+            "path": "shaderpacks/photon_v1.0a.zip"
+          }
+        },
+        {
+          "id": "Shrimple_v0.11.zip",
+          "name": "Shrimple_v0.11.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10529242,
+            "url": "https://raw.githubusercontent.com/Kirkoc/distribution/main/servers/vanilla-1.21/files/shaderpacks/Shrimple_v0.11.zip",
+            "MD5": "9627361018b6456c106179cbff95a42c",
+            "path": "shaderpacks/Shrimple_v0.11.zip"
           }
         }
       ]

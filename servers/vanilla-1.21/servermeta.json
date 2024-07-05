@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Devs/distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Vanilla (Minecraft 1.21)",
+    "description": "vanilla Running Minecraft 1.21 (Fabric v0.15.11)",
+    "icon": "https://raw.githubusercontent.com/Kirkoc/distribution/main/vanilla.png",
+    "address": "kirkoc.net:25565",
+    "discord": {
+      "shortId": "Playing Vanilla",
+      "largeImageText": "vanilla",
+      "largeImageKey": "vanilla"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": []
+}
