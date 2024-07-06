@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Devs/distribution/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "vanilla-test (Minecraft 1.21)",
-    "description": "vanilla-test Running Minecraft 1.21",
+    "name": "vanilla-test (Minecraft 1.20.5)",
+    "description": "vanilla-test Running Minecraft 1.20.5",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
